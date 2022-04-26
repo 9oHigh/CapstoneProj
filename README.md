@@ -1,6 +1,7 @@
 # HooAreYul 🏃🏻‍♂️
 **Capstone Project** : 만개의 레시피를 활용한 레시피 추천 어플리케이션
 
+
 ![image](https://user-images.githubusercontent.com/52906499/165251415-fa31578d-9d9a-4067-bcc8-22558afcab83.png)
 ![image](https://user-images.githubusercontent.com/52906499/165251443-27fa6fe4-8987-4cac-b464-4e8992cd5557.png)
 ![image](https://user-images.githubusercontent.com/52906499/165251486-7035f86a-f571-4758-af2e-2e9f525a85e8.png)
@@ -20,6 +21,7 @@
 ![image](https://user-images.githubusercontent.com/52906499/165251667-0964dd39-6f4c-4aae-9333-b8d0b5e655a9.png)
 ![image](https://user-images.githubusercontent.com/52906499/165251683-63b6eedd-ec73-4c39-9791-3765ddfb470e.png)
 
+
 - 팀원 역할분담
 
 김혜율: 팀장, 빅데이터 수집, UI디자인, 프론트 설계 및 구현
@@ -31,35 +33,44 @@
 남규헌: 빅데이터 수집, 빅데이터 전처리
 
 
+
 - 프로그램의 의도
 
 레시피들을 찾아서 보면 볼수록 그와 비슷한, 내 취향과 가까워진 레시피들을 추가로 제공하는 어플리케이션입니다. 개인화에 초점을 두고 있기 때문에 레시피들을 보면서 자신이 원하는 레시피를 조금 더 빠르게, 또 재밌게 찾을 수 있도록 도와줍니다.
+
 
 - 시스템 아키텍처
 
 ![image](https://user-images.githubusercontent.com/52906499/165251925-09d6f8d7-5299-4a9a-adbb-ec15b0055c5f.png)
 
+
 - 날씨 기반 레시피 추천 아키텍처
 
 ![image](https://user-images.githubusercontent.com/52906499/165254917-736bce5d-4e6a-441c-9a80-a840934513b9.png)
+
 
 - 재료 기반 레시피 추천 아키텍처
 
 ![image](https://user-images.githubusercontent.com/52906499/165255560-3ffb6555-5fc7-49df-8024-3381b2b3ad6a.png)
 
+
 - 사용자 기반 레시피 추천 아키텍처
 
 ![image](https://user-images.githubusercontent.com/52906499/165255648-6dd92c02-f472-4c8e-a15d-7d720b638da1.png)
+
 
 - 시스템 구성도
 
 ![image](https://user-images.githubusercontent.com/52906499/165251941-961e0fae-9b62-4f5e-b862-543d34f4b222.png)
 
+
 - Server API Docs
 
 ![image](https://user-images.githubusercontent.com/52906499/165252722-6ac6d574-95c8-4837-ab3e-ec0f8979c142.png)
+
 
 - Client API Docs
 
 ![image](https://user-images.githubusercontent.com/52906499/165253087-2a5d63f2-c7b8-47d2-9f34-bd66c6b0a426.png)
 ![image](https://user-images.githubusercontent.com/52906499/165253208-4df2d0c8-af6a-4210-8a82-96202877cd09.png)
+
